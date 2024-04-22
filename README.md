@@ -8,7 +8,7 @@ Soy un **Desarrollador Backend Junior** con un fuerte interés en crear solucion
 Estoy en constante aprendizaje y siempre busco oportunidades para colaborar en proyectos interesantes.
 
 ## Contacto
-- 📫 ¿Cómo contactarme? Envíame un mensaje aquí en GitHub o a mi correo electrónico (agrega tu correo).
+- 📫 ¿Cómo contactarme? Envíame un mensaje aquí en GitHub o a mi correo electrónico.
 - 📧 Redes de contacto:
 
   
