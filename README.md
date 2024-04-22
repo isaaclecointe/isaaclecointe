@@ -10,7 +10,7 @@ Estoy en constante aprendizaje y siempre busco oportunidades para colaborar en p
 ## Mis Proyectos
 Aquí puedes encontrar algunos de los proyectos en los que he trabajado..
 
-[![linkedin (1)](https://github.com/isaaclecointe/Hotel-Alura/assets/121967392/872a73ee-741a-487d-9a16-6e5480459401)](www.linkedin.com/in/andres-lecointe)
+[![linkedin (1)](https://github.com/isaaclecointe/Hotel-Alura/assets/121967392/872a73ee-741a-487d-9a16-6e5480459401)](https://www.linkedin.com/in/andres-lecointe)
 ## Contacto
 - 📫 ¿Cómo contactarme? Envíame un mensaje aquí en GitHub o a mi correo electrónico (agrega tu correo).
 
