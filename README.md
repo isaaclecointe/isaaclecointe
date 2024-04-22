@@ -1,16 +1,19 @@
-### Hi there 👋
+# ¡Bienvenido a mi perfil de GitHub! 👋
 
+Soy un **Desarrollador Backend Junior** con un fuerte interés en crear soluciones eficientes y escalables. Aunque aún no tengo experiencia laboral, he dedicado mi tiempo a aprender y perfeccionar mis habilidades en tecnologías clave como:
 
-**isaaclecointe/isaaclecointe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Java** y **Spring Boot**: para construir aplicaciones robustas y de alto rendimiento.🚀
+- **JavaScript**, **HTML** y **CSS**: para tener una base sólida en el desarrollo web. 🌐
 
-Here are some ideas to get you started:
+Estoy en constante aprendizaje y siempre busco oportunidades para colaborar en proyectos interesantes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Mis Proyectos
+Aquí puedes encontrar algunos de los proyectos en los que he trabajado..
+
+[![linkedin (1)](https://github.com/isaaclecointe/Hotel-Alura/assets/121967392/872a73ee-741a-487d-9a16-6e5480459401)](www.linkedin.com/in/andres-lecointe)
+## Contacto
+- 📫 ¿Cómo contactarme? Envíame un mensaje aquí en GitHub o a mi correo electrónico (agrega tu correo).
+
+¡Gracias por visitar mi perfil! Espero que encuentres algo interesante.
+
 
