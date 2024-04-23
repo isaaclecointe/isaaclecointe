@@ -1,5 +1,8 @@
 # ¡Bienvenido a mi perfil de GitHub! 👋
 
+![Back-end developer jr](https://github.com/isaaclecointe/Challenge-Encriptador-Alura-2/assets/121967392/22432f7d-28cf-4cd4-b8b7-845a36f2284f)
+
+
 Soy un **Desarrollador Backend Junior** con un fuerte interés en crear soluciones eficientes y escalables. Aunque aún no tengo experiencia laboral, he dedicado mi tiempo a aprender y perfeccionar mis habilidades en tecnologías clave como:
 
 - **Java** y **Spring Boot**: para construir aplicaciones robustas y de alto rendimiento.🚀
