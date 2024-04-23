@@ -1,6 +1,6 @@
 # ¡Bienvenido a mi perfil de GitHub! 👋
 
-![BACK-END](https://github.com/isaaclecointe/Challenge-Encriptador-Alura-2/assets/121967392/c9e531a8-8699-4b47-bc4b-455c239ed09b)
+![gif isaac](https://github.com/isaaclecointe/Challenge-Encriptador-Alura-2/assets/121967392/b40714b8-5d5c-49a7-882a-2fa8cd3fed6d)
 
 
 Soy un **Desarrollador Backend Junior** con un fuerte interés en crear soluciones eficientes y escalables. Aunque aún no tengo experiencia laboral, he dedicado mi tiempo a aprender y perfeccionar mis habilidades en tecnologías clave como:
