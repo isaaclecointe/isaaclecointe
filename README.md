@@ -16,6 +16,7 @@ Estoy en constante aprendizaje y siempre busco oportunidades para colaborar en p
 
   
   [![linkedin (1)](https://github.com/isaaclecointe/Hotel-Alura/assets/121967392/872a73ee-741a-487d-9a16-6e5480459401)](https://www.linkedin.com/in/andres-lecointe)
+                                                              [![gmail](https://github.com/isaaclecointe/isaaclecointe/assets/121967392/6f4d014e-c94d-4a6c-8658-59b327d1e0c1)](mailto:lecointe9325ib@gmail.com)
 
 
 
